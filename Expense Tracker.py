@@ -178,7 +178,7 @@ btn_font = ('Gill Sans MT', 13)
 
 # Initializing the GUI window
 root = Tk()
-root.title('PythonGeeks Expense Tracker')
+root.title('Expense Tracker')
 root.geometry('1200x550')
 root.resizable(0, 0)
 
